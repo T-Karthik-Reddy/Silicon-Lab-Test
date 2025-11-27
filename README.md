@@ -1,6 +1,4 @@
-# Baby Cry Detection System
-
-A lightweight Transformer-based audio classification system for detecting baby cries, optimized for edge deployment with TensorFlow Lite.
+A lightweight Transformer-based audio classification for detecting baby cries, optimized for edge deployment with TensorFlow Lite.
 
 ## Core Components
 
